@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		
+	
+	</head>
+
+	<body>
+		
+		<h1 title="first_heading" style="color:red;background-color:black;text-align=center">This is my first body heading</h1>
+		<p title="first_paragraph" style="color:yellow;background-color:blue;text-align=center">This is my first paragraph</p>
+
+		<hr>
+
+		<h1 title="second_heading" style="color:red;background-color:black;text-align=center">This is the heading for a link</h1>
+		<a title="first_link" href="https://docs.google.com/presentation/d/1R2r0RP8cwyA9iNwqz4TqNTSuL2TexiuBArbKbvzmi34/edit#slide=id.p">This is a link to my elevator pitch</a>
+
+		<hr>
+
+		<h1 title="third_heading" style="color:red;background-color:black;text-align=center">This is the heading for an image</h1>
+		<p title="second_paragraph" style="color:yellow;background-color:blue:text-align=center">This is the image for the school that I attend, Arizona State University</p>
+		<image src="ASU-logo" alt="ASU Logo" height="100" width="100">
+	
+	</body>
+
+</html>
